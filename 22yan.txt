@@ -1,0 +1,131 @@
+Sual 1. Paradiqmalar
+
+
+Action
+Agent-oriented
+Array-oriented
+Automata-based
+Concurrent computing
+Relativistic programming
+Data-driven
+Declarative (contrast: Imperative)
+Functional
+Functional logic
+Purely functional
+Logic
+Abductive logic
+Answer set
+Concurrent logic
+Functional logic
+Inductive logic
+Constraint
+Constraint logic
+Concurrent constraint logic
+Dataflow
+Flow-based
+Reactive
+Dynamic/scripting
+Event-driven
+Function-level (contrast: Value-level)
+Point-free style
+Concatenative
+Generic
+Imperative (contrast: Declarative)
+Procedural
+Object-oriented
+Literate
+Language-oriented
+Natural-language programming
+Discipline-specific
+Domain-specific
+Grammar-oriented
+Intentional
+Metaprogramming
+Automatic
+Inductive programming
+Reflective
+Attribute-oriented
+Macro
+Template
+Non-structured (contrast: Structured)
+Array
+Nondeterministic
+Parallel computing
+Process-oriented
+Probabilistic
+Stack-based
+Structured (contrast: Non-structured)
+Block-structured
+Object-oriented
+Actor-based
+Class-based
+Concurrent
+Prototype-based
+By separation of concerns:
+Aspect-oriented
+Role-oriented
+Subject-oriented
+Recursive
+Symbolic
+Value-level (contrast: Function-level)
+Quantum programming    
+                                        Qaynaq : https://en.wikipedia.org/wiki/Programming_paradigm
+
+En cox istifade olunan paradiqmalar
+
+Imperative
+Declarative
+Structured
+Procedural
+Functional (Applicative)
+Function-Level (Combinator)
+Object-Oriented
+Class-based
+Prototype-based
+Event-Driven
+Flow-Driven
+Logic (Rule-based)
+Constraint
+Aspect-Oriented
+Reflective
+Array                                      Qaynaq: http://cs.lmu.edu/~ray/notes/paradigms/
+
+
+
+
+
+2 Sual   .Imperativ ve decalativ Ferqleri;
+
+
+1) Imperativ masin diline Dekalativ ise mentiqe daha yaxindir.Imperativ dile nisbeten dekalativ dili anlamag daha asandir.
+
+2) Imperativ dilde bir emr bir nece kodla ardiciliqla ifade olunur ama decalative hemin emri bir kod vasitesile yerine yetirmek mumkundur.
+ amma her hansi emeliyatda imerativ dilde yazilan bir emeliyatin icinde xirda deyisikler etmek daha elverislidir.
+
+3)Imperativ paradiqmada her hansi emeliyatin nece getdiyini bilersiniz.amma decalativ paradiqmada istediyiniz em yerine yetirler lakin nece oldugunu bilmersiniz.
+
+4)Decalativ paradiqmada kodda yaranan sehvlere praqram komek eder ve kodda sehv etme sansini azaldar amma interactiv etmez.
+
+5)Imperativ paradiqmada bir emiliyat ucun bir nece koddan tekrar sekilde istifade ederek emeliyat yerine yetirile biler ama decalativde her emrin oz kodu yazilmalidir.Imperativ 
+daha cox vaxt alsada decalativ hada az vax alir.
+
+    QAYNAQ:     https://blog.webix.com/difference-between-declarative-and-imperative-programming-with-language-examples/
+                           http://bilgisayarkavramlari.sadievrenseker.com/2009/11/16/emirli-programlama-imperative-programming/
+                           https://tylermcginnis.com/imperative-vs-declarative-programming/
+
+
+3 obyekt yonumlu praqramladirma
+    oyp da dunayadaki kimi oyp da da obyeklerdir .yeni obyekter deyisdire biler.OYP da real heyatdaki kimi varislik elaqesini qurmag mumkundur.her hansi teyin etdiyimiz sinifi basqa bir birine
+baglayib elqelendire builerik
+
+
+
+4)proqramlasirma paradiqmalarinin daha cox dekalativ paradiqmani ozume yaxin gorerdim.her hansi emeliyati etmek ucun daha cox xirdaliqdan istifade etmeden ve cox vaxt serf etmeden 
+emeliyati yerine yetirmek olar.
+
+
+
+
+                        
+
+ 
